@@ -110,4 +110,12 @@ java -cp ../out Main
   [1] Customer Portal
   [2] Admin Panel
   [3] Exit
+
+
+   AUTHOR
+- SALIL VERMA
+- AKARSH BHARGAV
+- KARTIKEYA
+- UTKARSH
+
 ```
